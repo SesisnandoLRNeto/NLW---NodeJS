@@ -2,7 +2,7 @@
 
 ## Rules
 
-[ ] Register of Users:
+[ X ] Register of Users:
 
 - Not permission to do register more one users with same email
 - Not permission to do register users without email information
